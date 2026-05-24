@@ -4,7 +4,7 @@ Backend and distributed systems engineer with 4 years building production cloud 
 
 Currently building a multi-tenant SaaS platform (Python · FastAPI · Celery · PostgreSQL · React) and writing about distributed systems on my blog.
 
-Open to remote backend/infra roles and product engineering teams in Bengaluru.
+Open to remote backend/infra roles and product engineering teams.
 
 ---
 
